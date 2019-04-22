@@ -1,8 +1,0 @@
-client\endpoint\ClientEndpoint.class
-client\service\RiskEnum.class
-client\Application.class
-client\dto\ClientDto.class
-client\entity\Client.class
-client\service\ClientService.class
-client\convert\ClientConverter.class
-client\repository\ClientRepository.class
